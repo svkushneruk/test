@@ -4,7 +4,8 @@
  */
 
 // Стили для файла с примером HTML-фрагмента
-@import './base/container';
-@import './example';
 @import './base/base';
+@import './base/container';
+@import './base/gallery';
+@import './example';
 @import './footer';
